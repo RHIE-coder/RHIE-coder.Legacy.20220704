@@ -1,7 +1,13 @@
 # 🐺 RHIE Programmer
 
+
+![RHIE Coder's github stats](https://github-readme-stats.vercel.app/api?username=RHIE-coder&show_icons=true&theme=radical)
+
+
+
 ## Github Map 🗺️
-[Click Here](https://github.com/RHIE-coder/my-github-info)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=RHIE-coder&repo=my-github-info&show_owner=true)](https://github.com/RHIE-coder/my-github-info)
+
 
 ## My Tech Stack 🕹️
 
@@ -13,6 +19,7 @@
     <li>Hibernate</li>
   </ul>
 </details>
+
 
 <details>
   <summary><b>JS Stack</b></summary>
@@ -39,6 +46,7 @@
   </ul>
 </details>
 
+
 <details>
   <summary><b>AI</b></summary>
   <ul style="list-style-type: circle;">
@@ -64,8 +72,23 @@
 </details>
 
 
-## I'm Interested in 📚
- - Blockchain
- - Web/Mobile Programming
+## About Me 📚
 
-![profile-picture.jpg](profile-picture.jpg)
+##### 📖 I’m currently learning `hyperledger Indy`
+
+##### ⚡️ I enjoy the most include `Web/App Programming` `BlockChain` `Machine Learning`
+
+##### 👨‍💻 I’m fluent in `Java` `JavaScript`
+
+
+##### 🌱 I'm `graduate student`
+
+##### 📫 How to reach me
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/min-hyung-rhie-270a66178)
+
+
+
+
+
+<img align="right" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/programming.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/better-better.gif?raw=true" width="500" height="320" />
