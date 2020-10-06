@@ -10,7 +10,7 @@
 
 
 ## My Tech Stack 🕹️
-<img  align="left" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/programming.gif?raw=true" width="500" height="350" />
+<img  align="right" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/programming.gif?raw=true" width="350" height="200" />
 
 <details>
   <summary><b>Java Stack</b></summary>
@@ -75,13 +75,13 @@
 
 ## About Me 📚
 
-<img align="right" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/better-better.gif?raw=true" width="300" height="300" />
+<img align="left" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/better-better.gif?raw=true" width="300" height="300" />
 
-##### 📖 I’m currently learning `hyperledger Indy`
+##### 📖 I’m currently learning <br>`hyperledger Indy`
 
-##### ⚡️ I enjoy the most include `Web/App Programming` `BlockChain` `Machine Learning`
+##### ⚡️ I enjoy the most include <br>`Web/App Programming` <br>`BlockChain` <br>`Machine Learning`
 
-##### 👨‍💻 I’m fluent in `Java` `JavaScript`
+##### 👨‍💻 I’m fluent in <br>`Java` <br>`JavaScript`
 
 
 ##### 🌱 I'm `graduate student`
