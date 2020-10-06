@@ -10,6 +10,7 @@
 
 
 ## My Tech Stack 🕹️
+<img  alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/programming.gif?raw=true" width="500" height="350" />
 
 <details>
   <summary><b>Java Stack</b></summary>
@@ -74,6 +75,8 @@
 
 ## About Me 📚
 
+<img align="right" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/better-better.gif?raw=true" width="300" height="300" />
+
 ##### 📖 I’m currently learning `hyperledger Indy`
 
 ##### ⚡️ I enjoy the most include `Web/App Programming` `BlockChain` `Machine Learning`
@@ -87,8 +90,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com)](https://www.linkedin.com/in/min-hyung-rhie-270a66178)
 
 
-
-
-
-<img align="right" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/programming.gif?raw=true" width="500" height="320" />
-<img align="right" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/better-better.gif?raw=true" width="500" height="320" />
