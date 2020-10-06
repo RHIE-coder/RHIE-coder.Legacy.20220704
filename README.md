@@ -10,7 +10,7 @@
 
 
 ## My Tech Stack 🕹️
-<img  alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/programming.gif?raw=true" width="500" height="350" />
+<img  align="left" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/programming.gif?raw=true" width="500" height="350" />
 
 <details>
   <summary><b>Java Stack</b></summary>
