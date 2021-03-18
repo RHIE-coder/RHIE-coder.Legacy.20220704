@@ -77,11 +77,11 @@
 
 <img align="left" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/better-better.gif?raw=true" width="300" height="300" />
 
-##### 📖 I’m currently learning <br>`hyperledger Indy`
+##### 📖 I’m currently learning <br>`Electron` <br>`Vue.js` <br>`Node.js`
 
 ##### ⚡️ I enjoy the most include <br>`Web/App Programming` <br>`BlockChain` <br>`Machine Learning`
 
-##### 👨‍💻 I’m fluent in <br>`Java` <br>`JavaScript`
+##### 👨‍💻 I’m fluent in <br>`Java` <br>`JavaScript` <br>`Python`
 
 
 ##### 🌱 I'm `graduate student`
