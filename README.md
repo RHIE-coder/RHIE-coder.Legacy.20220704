@@ -59,6 +59,8 @@
 <details>
   <summary><b>Blockchain</b></summary>
   <ul style="list-style-type: circle;">
+    <li>Hyperledger Indy</li>
+    <li>Hyperledger Aries</li>
     <li>Hyperledger Fabric</li>
     <li>GO</li>
   </ul>
