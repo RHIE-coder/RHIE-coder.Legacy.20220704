@@ -77,9 +77,9 @@
 
 <img align="left" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/better-better.gif?raw=true" width="300" height="300" />
 
-##### 📖 I’m currently learning `Node.js` `JavaScript (deep)`
+##### 📖 I’m currently learning `Hyperledger Indy/Aries/Fabric` `DevOps`
 
-##### ⚡️ I enjoy the most include `Web/App Programming` `BlockChain` `Machine Learning`
+##### ⚡️ I enjoy the most include `Web/App Programming` `BlockChain` `Distributed System`
 
 ##### 👨‍💻 I’m fluent in `Java` `JavaScript` `Python`
 
