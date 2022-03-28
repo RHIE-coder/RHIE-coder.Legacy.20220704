@@ -142,6 +142,7 @@
     <li>Grid/Cluster Computing Skills</li>
     <li>Build Architecture/Consensus Skills</li>
     <li>TDD</li>
+    <li>Clean Coding & Refectoring</li>
   </ul>
 </details>
 
