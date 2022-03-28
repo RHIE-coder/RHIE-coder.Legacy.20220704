@@ -14,9 +14,9 @@
 <img  align="right" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/programming.gif?raw=true" width="400" height="400" />
 
 #### 👰: It's my wife.
-#### 🌕: Have confident. Practicable.
+#### 🌕: Have confident. I feel so happy while using it.
 #### 🌗: Average. Know how to use.
-#### 🌑: No-confident.
+#### 🌑: No-confident. But I'm willing to do it.
 
 <hr>
 
