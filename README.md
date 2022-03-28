@@ -140,6 +140,7 @@
     <li>C# + .NET/Xamarin</li>
     <li>Kubernetes</li>
     <li>Kafka</li>
+    <li>RabbitMQ</li>
     <li>Grid/Cluster Computing Skills</li>
     <li>Build Architecture/Consensus Skills</li>
     <li>TDD</li>
