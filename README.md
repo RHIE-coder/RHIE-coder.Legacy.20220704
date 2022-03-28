@@ -144,6 +144,9 @@
     <li>Build Architecture/Consensus Skills</li>
     <li>TDD</li>
     <li>Clean Coding & Refectoring</li>
+    <li>AuthN(Cookie, Session, JWT...) & AuthZ(Acceess Control Skills)</li>
+    <li>Cryptography</li>
+    <li>Cloud</li>
   </ul>
 </details>
 
