@@ -25,6 +25,7 @@
   <ul style="list-style-type: circle;">
     <li>👰<strong>Decentralized Identifiers (DIDs)</strong></li>
     <li>🌕MyData & Self-sovereign</li>
+    <li>🌕OAuth2.0</li>
     <li>🌕Ethereum-based Public Blockchain</li>
     <li>🌕Hyperledger Fabric-based Private/Consortium Blockchain</li>
     <li>🌗Distributed Systems</li>
