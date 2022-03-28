@@ -125,6 +125,7 @@
 <details>
   <summary><b>Just for Me to Memorize</b></summary>
   <ul style="list-style-type: circle;">
+    <li>Memcache & Redis</li>
     <li>DevOps & CD/CI Skiils</li>
     <li>Design Pattern Skills</li>
     <li>Reactive Programming(RxJava, RxJS, RxPython)</li>
