@@ -98,7 +98,7 @@
 
 <img align="left" alt="GIF" src="https://github.com/RHIE-coder/RHIE-coder/blob/master/asset/better-better.gif?raw=true" width="300" height="300" />
 
-##### 📖 I’m currently learning `ERC-20`, `ERC-721`, `ERC-1056`, `AWS`
+##### 📖 I’m currently learning `React`, `TypeScript`
 
 ##### ⚡️ I enjoy the most include `Web/App Programming` `BlockChain` `Distributed System`
 
